@@ -1,7 +1,5 @@
 <?php
 
-// Author: Buthaynah Abdullah Huwaymil
-
 session_start();
 include 'Database/db.php';
 
