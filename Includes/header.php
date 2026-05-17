@@ -1,7 +1,5 @@
 <?php
 
-// Author: Noor Abdulkhaleq Alkhames
-
 //  Check if the session has started, and start it if not 
 if (session_status() === PHP_SESSION_NONE) {
     session_start();  // Start session if not already started
