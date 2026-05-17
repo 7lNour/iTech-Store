@@ -16,9 +16,7 @@ iTech Store is an e-commerce website developed using PHP, MySQL, HTML, CSS, and 
 * Update and remove cart items
 * Checkout system
 * Order history using cookies
-* 
-* Responsive design for multiple devices
-
+  
 ### Admin Features
 
 * Admin authentication system
