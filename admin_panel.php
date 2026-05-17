@@ -1,7 +1,5 @@
 <?php
 
-// Author: Taghreed Mashal Alhrabi
-
 session_start();
 include 'Database/db.php';
 
