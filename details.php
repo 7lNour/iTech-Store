@@ -1,6 +1,5 @@
 <?php 
 
-// Author: Noor Ribhi Almahuzi
 
 session_start(); 
 include 'Database/db.php'; 
