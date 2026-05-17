@@ -1,6 +1,5 @@
 <?php 
 
-// Author: Noor Abdulkhaleq Alkhames
 
 session_start(); 
 include 'Database/db.php';
