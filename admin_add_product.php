@@ -1,7 +1,5 @@
 <?php
 
-// Author: Aishah Salamah Aldhafeeri
-
 session_start();
 include 'Database/db.php';
 
